@@ -1,12 +1,12 @@
 IAP helper for Apple in app purchases. It uses ARC and blocks for ease of use. Ready to use with newsstand subscriptions.
 
-##Require
+## Require
 
 * StoreKit
 * iOS 5 or later
 * ARC
 
-##How to use
+## How to use
 
 * Add **IAPHelper** folder to your project.
 * Add **Storekit framework**
